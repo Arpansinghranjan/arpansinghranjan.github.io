@@ -1,31 +1,28 @@
-# Arpan Singh Official — GitHub Pages Website
+# Arpan Singh Official — GitHub Pages
 
-A responsive bilingual (English/Hindi) personal biography website.
+## Files to upload to the repository root
+- `index.html` — bilingual biography and profile page
+- `style.css` — responsive premium styling
+- `script.js` — mobile navigation and English/Hindi switch
+- `profile-photo.png` — selected professional profile portrait
+- `favicon.svg` — site icon
+- `robots.txt` — crawler guidance
+- `sitemap.xml` — sitemap for search engines
+- `README.md` — project instructions
 
-## Files
-- `index.html` — page structure and biography content
-- `style.css` — responsive styling
-- `script.js` — mobile navigation and language switch
+## Publish / update
+1. Open https://github.com/Arpansinghranjan/arpansinghranjan.github.io
+2. Choose **Add file → Upload files**.
+3. Upload all files listed above directly into the repository root.
+4. If GitHub asks about files with the same names, allow the existing files to be replaced/updated.
+5. Press **Commit changes**.
+6. Pages is already configured for `main` and `/(root)`; it should deploy automatically after the commit.
 
-## Publish with GitHub Pages (free)
-1. Sign in at https://github.com/
-2. Create a new **Public** repository named `arpansingh.github.io` (replace `arpansingh` with your exact GitHub username).
-3. Upload `index.html`, `style.css`, and `script.js` to the repository root (not inside another folder).
-4. Open **Settings → Pages**.
-5. Under **Build and deployment**, select **Deploy from a branch**.
-6. Select branch `main` and folder `/ (root)`, then click **Save**.
-7. Wait for GitHub Pages to publish. Your address will be `https://YOUR-USERNAME.github.io/`.
+Website: https://arpansinghranjan.github.io/
 
-If you use a repository with another name, the URL will usually be `https://YOUR-USERNAME.github.io/REPOSITORY-NAME/`.
-
-## Before publishing
-- Confirm that all personal details, education, date of birth and social URLs are accurate and that you are comfortable publishing them.
-- Replace any incorrect social links.
-- Add a profile photograph only if you have permission to publish it.
-- Add independent, reliable references where possible.
-- The current source note points to the EverybodyWiki profile. That page is not independent verification of the claims.
-- This is a personal profile website, not a Wikipedia article, and it is not affiliated with Wikipedia or the Wikimedia Foundation.
-- The supplied content deliberately avoids unsupported claims about awards, recognition, company size or achievements.
-
-## Local preview
-Open `index.html` in a browser. An internet connection is needed to load the optional Google Fonts.
+## SEO follow-up
+- Submit `https://arpansinghranjan.github.io/sitemap.xml` in Google Search Console.
+- Search indexing is not guaranteed and may take time.
+- This website is a personal profile and is not affiliated with Wikipedia or Wikimedia Foundation.
+- The biographical facts shown are attributed to the linked EverybodyWiki page and are not independently verified here.
+- Confirm that the profile photograph and all personal details are approved for public use before publishing.

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arpansinghranjan.github.io/sitemap.xml
